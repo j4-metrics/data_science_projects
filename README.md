@@ -6,5 +6,7 @@ The discussions about methology and other infos about these projects, can be fou
 
 1. 
 code_file: cc_pca_&_clustering.ipynb
+
 database: 
+
 discussion link: 
